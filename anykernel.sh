@@ -10,12 +10,12 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=guacamoleb
-device.name2=oneplus 7
+device.name1=bullhead
+device.name2=nexus 5x
 device.name3=
 device.name4=
 device.name5=
-supported.versions=13
+supported.versions=12
 supported.patchlevels=
 '; } # end properties
 
